@@ -1,6 +1,6 @@
-### Hi there 👋 I am a PhD candidate in Seoul National University. 
+### Hi there 👋 Welcome to Younsik's Github.
 
-I am doing laser APRES and interested in introducing new techniques to experimental physics such as deep learning. If you have any questions about ongoing projects, please feel free to contanct me. (leblang@snu.ac.kr)123
+I am a PhD candidate in Seoul National University. I am doing laser APRES and interested in introducing new techniques to experimental physics such as deep learning. If you have any questions or suggestions, please feel free to contanct me. (leblang@snu.ac.kr)
 
 <!--
 **Younsik-phys/Younsik-phys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
